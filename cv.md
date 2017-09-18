@@ -41,6 +41,7 @@ Composed correspondence to English professors across the U.S.; catalogued and up
 * Sony Vegas Pro (proficient)
 * Blender 3D design (novice)
 * Working knowledge of MySQL, HTML, Wordpress, Bash Unix Shell
+* Social media marketing
 
 # Leadership
 
