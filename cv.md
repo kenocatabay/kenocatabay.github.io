@@ -44,5 +44,5 @@ Composed correspondence to English professors across the U.S.; catalogued and up
 
 # Leadership
 
-* 2015 - 2017 | Social Media Chair for FSUltimate - @DUFtrainroll on Instagram, Twitter, Facebook. 
-* 2015 - 2017 | Editor-in-Chief of [fsultimate.com](fsultimate.com)
+* 2015 - 2017 | Social Media Chair for the Men's Ultimate team at FSU - @DUFtrainroll on Instagram, Twitter, Facebook
+* 2015 - 2017 | Editor-in-Chief of [FSUltimate.com](fsultimate.com)
