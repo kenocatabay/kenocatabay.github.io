@@ -1,5 +1,5 @@
 # Keno Catabay
-* Graduate Assitant for the Office of Digital Research and Scholarship at Florida State University Libraries in Tallahassee, Florida
+* Graduate Assistant for the Office of Digital Research and Scholarship at Florida State University Libraries in Tallahassee, Florida
 * Email - kc13af@my.fsu.edu
 # Research Interests
 * Data management and data literacy
@@ -10,13 +10,13 @@
 2017 | B.A. in English - Editing, Writing, & Media, Florida State University
 > *cum laude*
 # Employment
-2017 - Present | Graduate Assitant at FSU Libraries, Florida State Univeristy
+2017 - Present | Graduate Assistant at FSU Libraries, Florida State Univeristy
 
 Assist with projects in the Office of Digital Research and Scholarship under the supervision of Micah Vandegrift. Currently focusing on research data management.
 
 2015 - Present | Remote Technical Writer & Corporate Communications Analyst at VSolvit LLC, Ventura, California
 
-Colloborate virtually with the communications team for a SBA certified 8(a)/Small Disadvantaged Business, HUBZone, and 8(m)/Economically Disadvantaged Woman owned company that specializes in providing technological services in BI systems, GIS, and data warehousing.
+Collaborate virtually with the communications team for a SBA certified 8(a)/Small Disadvantaged Business, HUBZone, and 8(m)/Economically Disadvantaged Woman-owned company that specializes in providing technological services in BI systems, GIS, and data warehousing.
 
 2016 - 2017 | Learning Commons Service Desk & Collections Access at FSU Libraries
 
@@ -35,10 +35,11 @@ Composed correspondence to English professors across the U.S.; catalogued and up
 
 # Skills
 
-* Adobe Creative Suite - InDesign (profcient), Photoshop/Illustrator (novice)
+* Adobe Creative Suite - InDesign (proficient), Photoshop/Illustrator (novice)
 * Group Collaboration/Project Management - Slack, Dropbox, Google Platform
 * Microsoft Office 365 - Word, Access, PowerPoint, Publisher, Excel
 * Sony Vegas Pro (proficient)
+* Experience in Dublin Core Schema
 * Blender 3D design (novice)
 * Working knowledge of MySQL, HTML, Wordpress, Bash Unix Shell
 * Social media marketing
