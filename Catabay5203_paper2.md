@@ -84,9 +84,9 @@ Interventions in Black Churches: A Model for Building Effective Partnerships.”
 
 Brodie, Molyann et al., 2000. “Health Information, the Internet, and the Digital Divide.” Health Affairs. 19(6):255-65.
 
-Cashen, M., Sklar, B., Nguyen, H., Just, M., Galzagorry, G., & Bakken, S. (2002). Implementing a Web-based information resource at an inner-city community church: lessons learned. CIN: Computers, Informatics, Nursing, 20(6), 244-250 Cashen, M., Sklar, B., Nguyen, H., Just, M., Galzagorry, G., & Bakken, S. (2002). Implementing a Web-based information resource at an inner-city community church: lessons learned. CIN: Computers, Informatics, Nursing, 20(6), 244-250
+Cashen, M., Sklar, B., Nguyen, H., Just, M., Galzagorry, G., & Bakken, S. (2002). Implementing a Web-based information resource at an inner-city community church: lessons learned. CIN: Computers, Informatics, Nursing, 20(6), 244-250.
 
-Chatman, E.A., & Pendleton, V.E.M. (1995). Knowledge gap, information-seeking and the poor. The Reference Librarian, 49/50, 135–145
+Chatman, E.A., & Pendleton, V.E.M. (1995). Knowledge gap, information-seeking and the poor. The Reference Librarian, 49/50, 135–145.
 
 Dervin, B. (1976). The development of strategies for dealing with theinformation needs of urban residents: Phase 1—The Citizen Study. FinalReport on Project No. L0035JA to Office of Libraries and LearningResources, U.S. Office of Education, Washington, D.C., (ED 125 640).
 
@@ -112,7 +112,7 @@ Ludwig, J. (1999). Information and Inner City Educational Attainment. Economics 
 
 Mangoni, A. A., & Jackson, S. H. D. (2004). Age-related changes in pharmacokinetics and pharmacodynamics: Basic principles and practical applications. British Journal of Clinical Pharmacology, 57(1), 6e14.
 
-McCorry, K. (2014, April 15). Philly starts handing out library cards to students who didn’t request them. Newsworks. Retrieved from (http://www.newsworks.org/index.php/local/ the-latest/66919-phillystarts-handing-out-library-cards-to-students-who-didnt-request-them)
+McCorry, K. (2014, April 15). Philly starts handing out library cards to students who didn’t request them. Newsworks. Retrieved from (http://www.newsworks.org/index.php/local/ the-latest/66919-phillystarts-handing-out-library-cards-to-students-who-didnt-request-them).
 
 Nauratil, M.J. (1985). Public libraries and non-traditional clienteles: Thepolitics of special services. Westport, CT: Greenwood Press.
 
@@ -120,11 +120,11 @@ Neuman, D., Grant, A., Lee, V., & Tecce DeCarlo, M. J. (2015). Information and D
 
 Snyder, P.Z. (1976). Neighborhood gatekeepers in the process of urbanadaptation: Cross-ethnic commonalities. Urban Anthropology, 5, 35–52.
 
-Sollenberger, J., DeGolyer, C., & Rosen, M. (2003). Internet Access and Training for African-American Churches: Reducing Disparities in Health Information Access. Reference Librarian, (82), 171-182
+Sollenberger, J., DeGolyer, C., & Rosen, M. (2003). Internet Access and Training for African-American Churches: Reducing Disparities in Health Information Access. Reference Librarian, (82), 171-182.
 
-van Rensburg, A. J., Kotze, I., Lubbe, M. S., & Cockeran, M. (2017). Full Length Article: An elderly, urban population: Their experiences and expectations of pharmaceutical services in community pharmacies. Health SA Gesondheid, 22241-251. doi:10.1016/j.hsag.2016.12.002
+van Rensburg, A. J., Kotze, I., Lubbe, M. S., & Cockeran, M. (2017). Full Length Article: An elderly, urban population: Their experiences and expectations of pharmaceutical services in community pharmacies. Health SA Gesondheid, 22241-251. doi:10.1016/j.hsag.2016.12.002.
 
-Volume, C. I., Farris, K. B., Kassam, R., Cox, C. E., & Cave, A. (2001). Pharmaceutical care research and education project: Patient outcomes. Journal of the American pharmaceutical Association, 41(3), 411e420
+Volume, C. I., Farris, K. B., Kassam, R., Cox, C. E., & Cave, A. (2001). Pharmaceutical care research and education project: Patient outcomes. Journal of the American pharmaceutical Association, 41(3), 411e420.
 
 WHO (World Health Organization). (1997). Measuring quality of life. The World Health Organization quality of life instruments (the WHOQOL-100 and the WHOQOL-BREF). http://www.who.int/ mental_health/media/68.pdf. 
 
