@@ -38,4 +38,21 @@ To answer these questions, I suggest using a questionnaire that would be mailed 
 
 ### 1. When I don’t know something, I primarily look online to find the answer.
 ### strongly disagree, disagree, neutral, agree, strongly agree.
-
+### 2. When I don’t know something, I primarily ask a friend, teacher, or colleague for the answer.
+### strongly disagree, disagree, neutral, agree, strongly agree.
+### 3. I have access to the internet:
+### never, sometimes, always.
+### 4. When I don’t know something, I primarily look through a book or other printed material for the answer.
+### strongly disagree, disagree, neutral, agree, strongly agree.
+### 5. I use my local library as an information source:
+### never, sometimes, frequently
+### 6. I use my local church as an information source:
+### never, sometimes, frequently
+### 7. I am able to consult a doctor or health professional to discuss health issues.
+### strongly disagree, disagree, neutral, agree, strongly agree
+### 8.I live a comfortable life
+### strongly disagree, disagree, neutral, agree, strongly agree
+### 9. I am able to provide for myself and/or my family
+### strongly disagree, disagree, neutral, agree, strongly agree
+### 10. My trust my information sources
+### strongly disagree, disagree, neutral, agree, strongly agree
