@@ -75,3 +75,56 @@ Knowing how the general population is getting their information will be helpful 
 
 ## References
 
+Agada, J. (1999). Inner-city gatekeepers: an exploratory survey of their information use environment. Journal Of The American Society For Information Science, 50(1), 74-85.
+
+Anderson, Elijah. “The Devolution of the Inner-City High School.” The ANNALS of the American Academy of Political and Social Science 673, no. 1 (September 1, 2017): 60–79. https://doi.org/10.1177/0002716217724395.
+
+Baskin, Monica L., Ken Resnicow, and Marci K. Campbell, 2001. “Conducting Health
+Interventions in Black Churches: A Model for Building Effective Partnerships.” Ethnicity & Disease. 11:823-833.
+
+Brodie, Molyann et al., 2000. “Health Information, the Internet, and the Digital Divide.” Health Affairs. 19(6):255-65.
+
+Cashen, M., Sklar, B., Nguyen, H., Just, M., Galzagorry, G., & Bakken, S. (2002). Implementing a Web-based information resource at an inner-city community church: lessons learned. CIN: Computers, Informatics, Nursing, 20(6), 244-250 Cashen, M., Sklar, B., Nguyen, H., Just, M., Galzagorry, G., & Bakken, S. (2002). Implementing a Web-based information resource at an inner-city community church: lessons learned. CIN: Computers, Informatics, Nursing, 20(6), 244-250
+
+Chatman, E.A., & Pendleton, V.E.M. (1995). Knowledge gap, information-seeking and the poor. The Reference Librarian, 49/50, 135–145
+
+Dervin, B. (1976). The development of strategies for dealing with theinformation needs of urban residents: Phase 1—The Citizen Study. FinalReport on Project No. L0035JA to Office of Libraries and LearningResources, U.S. Office of Education, Washington, D.C., (ED 125 640).
+
+Fast D, Kerr T, Wood E, Small W. The multiple truths about crystal meth among young people entrenched in an urban drug scene: a longitudinal ethnographic investigation. Soc Sci Med. 2014;110:41–48. doi: 10.1016/j.socscimed.2014.03.029.
+
+Fox, S. 2005. Digital Division: There Are Clear Differences among Those with Broadband Connections, Dial-up Conneaions, and No Connections at All to the Internet. A Pew Internet and American Life Online Report. http ://www.pewinternet.org/PPF/r/1 ,s/report_display.asp.
+
+Gadsden, Vivian L. “Gender, Race, Class, and the Politics of Schooling in the Inner City.” The ANNALS of the American Academy of Political and Social Science 673, no. 1 (September 1, 2017): 12–31. https://doi.org/10.1177/0002716217723614.
+
+Humphreys BL. Meeting information needs in health policy and public health: priorities for the National Library of Medicine and The National Network of Libraries of Medicine. J Urban Health. 1998; 75( 4):878–883.
+
+Jacka B, Applegate T, Poon AF, Raghwani J, Harrigan PR, DeBeck K, Milloy MJ, Krajden M, Olmstead A, Joy JB, Marshall BD. Transmission of hepatitis C virus infection among younger and older people who inject drugs in Vancouver. Canada Journal of hepatology. 2016;64(6):1247–1255. doi: 10.1016/j.jhep.2016.02.031. 
+
+Kaufman, D. R., & Rockoff, M. L. (2006). Increasing access to online information about health: a program for inner-city elders in community-based organizations. Generations, 30(2), 55-57.
+
+Krieg, R. M. (1995). Information Technology and Low-Income, Inner-City Communities. Journal Of Urban Technology, 3(1), 1-17.
+
+Knight, Rod, Danya Fast, Kora DeBeck, Jean Shoveller, and Will Small. “‘Getting out of Downtown’: A Longitudinal Study of How Street-Entrenched Youth Attempt to Exit an Inner City Drug Scene.” BMC Public Health 17 (May 2, 2017)
+
+Kurtz, N. (1968). Gatekeepers: Agents of acculturation. Rural Sociology, 33, 64–70.
+
+Ludwig, J. (1999). Information and Inner City Educational Attainment. Economics Of Education Review, 18(1), 17-30.
+
+Mangoni, A. A., & Jackson, S. H. D. (2004). Age-related changes in pharmacokinetics and pharmacodynamics: Basic principles and practical applications. British Journal of Clinical Pharmacology, 57(1), 6e14.
+
+McCorry, K. (2014, April 15). Philly starts handing out library cards to students who didn’t request them. Newsworks. Retrieved from (http://www.newsworks.org/index.php/local/ the-latest/66919-phillystarts-handing-out-library-cards-to-students-who-didnt-request-them)
+
+Nauratil, M.J. (1985). Public libraries and non-traditional clienteles: Thepolitics of special services. Westport, CT: Greenwood Press.
+
+Neuman, D., Grant, A., Lee, V., & Tecce DeCarlo, M. J. (2015). Information and Digital Literacy in a High-Poverty Urban School: An I-LEARN Project. School Libraries Worldwide, 21(1), 38-53.
+
+Snyder, P.Z. (1976). Neighborhood gatekeepers in the process of urbanadaptation: Cross-ethnic commonalities. Urban Anthropology, 5, 35–52.
+
+Sollenberger, J., DeGolyer, C., & Rosen, M. (2003). Internet Access and Training for African-American Churches: Reducing Disparities in Health Information Access. Reference Librarian, (82), 171-182
+
+van Rensburg, A. J., Kotze, I., Lubbe, M. S., & Cockeran, M. (2017). Full Length Article: An elderly, urban population: Their experiences and expectations of pharmaceutical services in community pharmacies. Health SA Gesondheid, 22241-251. doi:10.1016/j.hsag.2016.12.002
+
+Volume, C. I., Farris, K. B., Kassam, R., Cox, C. E., & Cave, A. (2001). Pharmaceutical care research and education project: Patient outcomes. Journal of the American pharmaceutical Association, 41(3), 411e420
+
+WHO (World Health Organization). (1997). Measuring quality of life. The World Health Organization quality of life instruments (the WHOQOL-100 and the WHOQOL-BREF). http://www.who.int/ mental_health/media/68.pdf. 
+
