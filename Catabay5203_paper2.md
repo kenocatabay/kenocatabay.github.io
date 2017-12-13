@@ -50,9 +50,26 @@ never, sometimes, frequently
 never, sometimes, frequently
 #### 7. I am able to consult a doctor or health professional to discuss health issues.
 strongly disagree, disagree, neutral, agree, strongly agree
-#### 8.I live a comfortable life
+#### 8. I live a comfortable life.
 strongly disagree, disagree, neutral, agree, strongly agree
-#### 9. I am able to provide for myself and/or my family
+#### 9. I am able to provide for myself and/or my family.
 strongly disagree, disagree, neutral, agree, strongly agree
-#### 10. My trust my information sources
+#### 10. I trust my information sources.
 strongly disagree, disagree, neutral, agree, strongly agree
+
+## Data Analysis
+The questionnaire must be brief and easy-to-understand as education levels in inner-cities suffer due to unfavorable circumstances (Lippman et al., 1996). Motivation to complete the questionnaire would need to be addressed. Besides a postcard, a compensation of a small amount of money will also be given to assist in a higher response rate. 
+
+Most of the information that will be acquired will come from the first part of the questionnaire, which will ask the user to fill out their income, health, drug use, highest education, age, and gender. Issues in this area will be finding a way to get the survey to teens. A separate survey may need to be created to attain the appropriate and consensual information for how teens acquire their information. 
+
+The survey’s responses are quantifiable and data visualizations of the results may be created to better understand the correlations between income, health, comfort, and information access. The data will reveal the income of the respondent and a basic understanding of how they gather their information. Based on this information, researchers may have a better understanding on how the standard of living affects information access in urban communities.  
+
+## Impact
+The data that will be gathered from my questionnaire are quantifiable and data visualizations of the results may be created to better understand the correlation between income/standard of living and information access. Because the data reveals the income of the respondent, as well as how they primarily receive their information, researchers will have a better understanding on how the standard of living affects information access in urban communities. 
+
+If there is a correlation between health and information access, then this study could potentially be used to encourage further research into health information science in urban communities. For example, if community members in this population have more accessibility to health information, then they may see a decline in STD cases, obesity, drug use, etc. 
+
+If higher-educated individuals tend to have more knowledge of information sources, then more efforts could be made to assure that all community members know that there are sources available for them to use. 
+
+Knowing how the general population is getting their information will be helpful to information specialists in this community. The study could serve as a catalyst for the education system to implement changes if teenagers are acquiring their information from less-than-ideal sources. It could also empower the local library or the local church to provide services that help spread awareness of alternative information sources. This study may help budgeting in all of these settings as well, as information specialists will know where their efforts are to be best spent based on how users are acquiring information. 
+
