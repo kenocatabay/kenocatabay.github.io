@@ -33,3 +33,9 @@ Where/how do elderly people within an inner-city setting primarily receive their
 ### RQ 4
 What factors may negatively influence a user's trust for an information service within an inner-city setting?
 
+## Methods
+To answer these questions, I suggest using a questionnaire that would be mailed to a variety of households in an urban community. The questionnaire will also include background information (income, gender, health, drug use, highest education) that is to be filled out by the user as well.
+
+### 1. When I don’t know something, I primarily look online to find the answer.
+### strongly disagree, disagree, neutral, agree, strongly agree.
+
