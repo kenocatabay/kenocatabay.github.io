@@ -102,9 +102,9 @@ Jacka B, Applegate T, Poon AF, Raghwani J, Harrigan PR, DeBeck K, Milloy MJ, Kra
 
 Kaufman, D. R., & Rockoff, M. L. (2006). Increasing access to online information about health: a program for inner-city elders in community-based organizations. Generations, 30(2), 55-57.
 
-Krieg, R. M. (1995). Information Technology and Low-Income, Inner-City Communities. Journal Of Urban Technology, 3(1), 1-17.
-
 Knight, Rod, Danya Fast, Kora DeBeck, Jean Shoveller, and Will Small. “‘Getting out of Downtown’: A Longitudinal Study of How Street-Entrenched Youth Attempt to Exit an Inner City Drug Scene.” BMC Public Health 17 (May 2, 2017)
+
+Krieg, R. M. (1995). Information Technology and Low-Income, Inner-City Communities. Journal Of Urban Technology, 3(1), 1-17.
 
 Kurtz, N. (1968). Gatekeepers: Agents of acculturation. Rural Sociology, 33, 64–70.
 
