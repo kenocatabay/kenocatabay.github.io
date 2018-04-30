@@ -13,7 +13,7 @@
 # Employment
 2017 - 2018 | Graduate Assistant at FSU Libraries, Florida State Univeristy
 
-Assisted with projects in the Office of Digital Research and Scholarship under the supervision of Micah Vandegrift. Conducted research pertaining to library practices and open data sharing. Performed clerical work around the office, including event planning. Presented research findings and lead “Introduction to Python” workshops.
+Assisted with projects in the Office of Digital Research and Scholarship .Conducted research pertaining to library practices and open data sharing. Performed clerical work around the office, including event planning. Presented research findings and lead “Introduction to Python” workshops.
 
 2017 - 2018 | Research Assistant at Florida Center for Reading Researrch, Florida State University
 
