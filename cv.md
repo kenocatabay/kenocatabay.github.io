@@ -6,14 +6,14 @@
 * The effects of information policy in gun-related violence
 * Methods to increase information accessbility for low-income communities
 # Education
-2018 | M.S. in Information, Florida State University
+2019 (Anticipated) | M.S. in Information, Florida State University
 
 2017 | B.A. in English - Editing, Writing, & Media, Florida State University
 > *cum laude*
 # Employment
 2017 - 2018 | Graduate Assistant at FSU Libraries, Florida State Univeristy
 
-Assist with projects in the Office of Digital Research and Scholarship under the supervision of Micah Vandegrift. Conducting research pertaining to library practices and open data sharing. Clerical work around the office, including event planning. Presenting research findings and leading “Introduction to Python” workshops.
+Assisted with projects in the Office of Digital Research and Scholarship under the supervision of Micah Vandegrift. Conducted research pertaining to library practices and open data sharing. Performed clerical work around the office, including event planning. Presented research findings and lead “Introduction to Python” workshops.
 
 2017 - 2018 | Research Assistant at Florida Center for Reading Researrch, Florida State University
 
